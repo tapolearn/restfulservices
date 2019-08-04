@@ -18,7 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 
 	
-	  public static final Contact DEFAULT_CONTACT = new Contact("Raghunatha Tadipatri", "www.taposoft.com", "gotoraghu@gmail.com");
+	  public static final Contact DEFAULT_CONTACT = new Contact("Raghunatha Tadipatri", "www.tapolearn.com", "tapolearn@gmail.com");
 	  public static final ApiInfo DEFAULT_API_INFO = new ApiInfo("RESTful Web Services Using Spring Boot",
 			  "This is the tutorial for learning RESTful Web Services using Spring Boot", "1.0", "urn:tos",
 	          DEFAULT_CONTACT, "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");

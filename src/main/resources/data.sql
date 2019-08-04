@@ -1,1 +1,1 @@
-insert into USER values (10001,'Raghunatha','Tadipatri','gotoraghu@gmail.com','9246283203')
+insert into USER values (10001,'Raghunatha','Tadipatri','tapolearn@gmail.com','9999999999')
